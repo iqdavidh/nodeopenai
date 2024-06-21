@@ -10,6 +10,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "openai": "^4.51.0"
+    "axios": "^1.7.2",
+    "gpt-3-encoder": "^1.1.4",
+    "openai": "^4.51.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.2",
+    "@types/uuid": "^9.0.8",
+    "globals": "^15.4.0",
+    "jest": "^29.7.0"
   }
 }
